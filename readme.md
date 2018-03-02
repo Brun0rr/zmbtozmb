@@ -57,4 +57,4 @@ Devem ser definidas como *TRUE* ou *FALSE*
 
 # Desenvolvedores
  * Bruno Ricardo Rodrigues - bruno.rrodrigues@outlook.com
- *  Luciano da Silva - luciano.silva0@outlook.com
+ *  Luciano da Silva - br.lucianosilva@gmail.com

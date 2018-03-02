@@ -173,7 +173,7 @@ zmztozmig () {
 
 
 help () {
-	echo " ZMBTOZMB - By Bruno Ricardo Rodrigues/Luciano da Silva - bruno.rrodrigues@outlook.com/luciano.silva0@outlook.com"
+	echo " ZMBTOZMB - By Bruno Ricardo Rodrigues/Luciano da Silva - bruno.rrodrigues@outlook.com/br.lucianosilva@gmail.com"
 	echo "Help"
 	echo ""
 	echo "Commands:"
